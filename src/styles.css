@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+}
+li {
+  cursor: pointer;
+}
+.completed {
+  background: red;
+}
+.detallsVisibles {
+  display: block;
+}
+
+.detallsNoVisibles {
+  display: none;
+}
